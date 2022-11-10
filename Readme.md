@@ -37,7 +37,7 @@ sys	0m1,069s
 
 ## Table of contents
 
-* [A small overview of Kubernetes manifest validation](https://github.com/yannh/kubeconform#a-small-overview-of-kubernetes-manifest-validation)
+* [A small overview of Kubernetes manifest validation](#a-small-overview-of-kubernetes-manifest-validation)
   * [Limits of Kubeconform validation](https://github.com/yannh/kubeconform#Limits-of-Kubeconform-validation)
 * [Installation](https://github.com/yannh/kubeconform#Installation)
 * [Usage](https://github.com/yannh/kubeconform#Usage)
